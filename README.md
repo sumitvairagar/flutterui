@@ -1,6 +1,6 @@
-# you_playlist
+# Flutter UI Samples
 
-An application to collect list of youtube videos
+An application to collect flutter ui samples
 
 ## Getting Started
 
